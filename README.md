@@ -1,7 +1,11 @@
 # agencia-vehiculos
+
 •  Revisión del Enunciado del Trabajo Práctico
+
 •  Comprensión del Modelo Relacional
+
 •  Creación del Esquema de la Base de Datos
+
 •  Implementación de la Base de Datos en SQL
 •  Creación de un Proyecto Backend
 •  Configuración del Entorno de Desarrollo
